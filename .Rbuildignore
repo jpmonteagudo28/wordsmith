@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^wordsmith\.Rproj$
+^\.Rproj\.user$
