@@ -2,3 +2,4 @@
 ^renv\.lock$
 ^wordsmith\.Rproj$
 ^\.Rproj\.user$
+^README\.Rmd$
